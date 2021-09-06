@@ -13,8 +13,6 @@ Please see the
 [@uniswap/default-token-list](https://github.com/uniswap/default-token-list) 
 repository.
 
-## Development
-
 ### Install Dependencies
 
 ```bash
